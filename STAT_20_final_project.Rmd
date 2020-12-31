@@ -1,3 +1,4 @@
+###Project completed Fall 2019
 ---
 title: 'Balling on a Budget: An Analysis of Player Performance and Salary in the NBA'
 author: Charles Reynolds, Nandini Rajgopal, Emma Edelman, Stephanie Tungerapan, Pierce
